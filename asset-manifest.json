@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fcc-randomquote/static/css/main.eed5e9ff.css",
-    "main.js": "/fcc-randomquote/static/js/main.206abe8d.js",
+    "main.js": "/fcc-randomquote/static/js/main.0668d47f.js",
     "index.html": "/fcc-randomquote/index.html",
     "main.eed5e9ff.css.map": "/fcc-randomquote/static/css/main.eed5e9ff.css.map",
-    "main.206abe8d.js.map": "/fcc-randomquote/static/js/main.206abe8d.js.map"
+    "main.0668d47f.js.map": "/fcc-randomquote/static/js/main.0668d47f.js.map"
   },
   "entrypoints": [
     "static/css/main.eed5e9ff.css",
-    "static/js/main.206abe8d.js"
+    "static/js/main.0668d47f.js"
   ]
 }
